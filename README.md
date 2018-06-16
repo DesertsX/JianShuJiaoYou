@@ -37,5 +37,5 @@
 ### 微信赞赏码
 ![](Images/reward-weixin.png)
 
-### 微信赞赏码
+### 支付宝
 ![](Images/reward-alipay_2.png)
