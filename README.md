@@ -31,7 +31,7 @@
 ![](Images/FaceCropped_Size33_4_100pixel_255pics_random_3.png)
 
 ### 图像特征提取与 t-SNE 可视化高维数据
-![](Images/FaceCropped_Size33_4_100pixel_255pics_random_3.png)
+![](Images/Features_1000_Artical_Images_300PCA-tSNE.png)
 
 ## 打赏激励
 ### 微信赞赏码
